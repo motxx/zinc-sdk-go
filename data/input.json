@@ -1,0 +1,25 @@
+{
+  "arguments": {
+    "value": "42"
+  },
+  "transaction": {
+    "tx": {
+      "type": "Transfer",
+      "accountId": 1,
+      "from": "0x215D76a620De5D2e9dC552278048C4dA22aA7AD9",
+      "to": "0x1f81df95c5478059e0e85f7594467bbfe511792a",
+      "token": 0,
+      "amount": "0",
+      "fee": "1000",
+      "nonce": 2,
+      "signature": {
+        "pubKey": "07f86efb9bf58d5ebf23042406cb43e9363879ff79223be05b7feac1dbc58c86",
+        "signature": "042c7356c3970c5ab620e1eaf0a9e39563edc9383072ac33a29398f11678b2a3acdc40ff05acd225b6a71962cfabfa6012fae8492106987bcd48135fefa09c02"
+      }
+    },
+    "ethereumSignature": {
+      "type": "EthereumSignature",
+      "signature": "0xbe7a011c0b03a2ab8eceb3f51ec3055e5998b025e3e41a320f6b00532a4c49604608fe7b9c36d837c36817bbaf5570197484281dd45d83f2d9ef867b7454b91e1b"
+    }
+  }
+}
